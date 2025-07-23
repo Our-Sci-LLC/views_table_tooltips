@@ -1,0 +1,6 @@
+name: 'Views Table Tooltips'
+type: module
+description: 'Adds tooltips to truncated table cells in Views'
+package: Custom
+core_version_requirement: ^10 || ^11
+version: 1.0.0

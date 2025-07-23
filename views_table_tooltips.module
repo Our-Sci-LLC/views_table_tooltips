@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * Implements hook_views_pre_view().
+ */
+function views_table_tooltips_views_pre_view(\Drupal\views\ViewExecutable $view, $display_id, array &$args) {
+  $view->element['#attached']['library'][] = 'views_table_tooltips/tooltips';
+}

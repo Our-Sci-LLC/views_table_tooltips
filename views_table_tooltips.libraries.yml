@@ -1,0 +1,6 @@
+tooltips:
+  js:
+    js/views_table_tooltips.js: {}
+  dependencies:
+    - core/drupal
+    - core/once
