@@ -1,4 +1,4 @@
-# views_table_tooltips
+# Views Table Tooltips
 Adds tooltips to truncated table cells in Views
 
 ## Installation
