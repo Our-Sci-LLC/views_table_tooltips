@@ -1,5 +1,5 @@
 {
-    "name": "Our-Sci-LLC/views_table_tooltips",
+    "name": "oursci/views_table_tooltips",
     "description": "Adds tooltips to truncated table cells in Views",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",
